@@ -1,24 +1,54 @@
+html {
+    font-size: 62.5%;}
+
 * {
     font-family: 'Roboto Mono', monospace;}
+
 #title {
     font-family: 'Chelsea Market', cursive;
     text-align: center;
-    font-size: 4rem;}
-#subtitle {
-    text-align: center;}
+    font-size: 6rem;}
+
+#subtitle1 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;}
+
+#subtitle2 {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-left: 30rem;
+    padding-right: 30rem;
+    word-wrap: normal;}
 
 #button1 {
     background-color: #FF764E;
-    color:white;
-    border: 0rem;}
+    color:#ffffff;
+    width: 30rem;
+    font-size: 2rem;
+    border: 0rem;
+    border-radius: 10%;
+    padding: 5rem;
+    margin: 2rem; }
+
 #button2 {
     background-color: #5ED3EB;
     color: white;
     border: 0rem;}
+
 #button3 {
     background-color: #FFCD69;
     color: white;
     border: 0rem;}
+
+#headerimg {
+    position: relative;
+    right: 40rem;
+    top: 30rem;
+    height: 25rem;
+    width: 25rem;
+    border-radius: 150%;}
 
 #text {
     color: white;
@@ -27,33 +57,23 @@
     text-align: center;}
 
 #campfire {
-    height: 0.1rem;
-    width: 0.1rem;
-    border: 0rem;
-    padding: 0rem;
-    margin: 0rem;}
+    height: 15rem;
+    width: 15rem;}
 
 #van {
-    height: 0.1rem;
-    width: 0.1rem;
-    border: 0rem;
-    padding: 0rem;
-    margin: 0rem;}
-
-
-
-
-
-
+    height: 15rem;
+    width: 15rem;}
 
 #button4 {
     background-color: #FF764E;
     color: white;
     border: 0rem;}
+
 #button5 {
     background-color: #5ED3EB;
     color: white;
     border: 0rem;}
+
 #button6 {
     background-color: #FFCD69;
     color: white;
