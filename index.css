@@ -1,18 +1,60 @@
 * {
     font-family: 'Roboto Mono', monospace;}
 #title {
-    font-family: 'Chelsea Market', cursive;}
+    font-family: 'Chelsea Market', cursive;
+    text-align: center;
+    font-size: 4rem;}
+#subtitle {
+    text-align: center;}
+
 #button1 {
-    background-color: #FF764E;}
+    background-color: #FF764E;
+    color:white;
+    border: 0rem;}
 #button2 {
-    background-color: #5ED3EB;}
+    background-color: #5ED3EB;
+    color: white;
+    border: 0rem;}
 #button3 {
-    background-color: #FFCD69;}
+    background-color: #FFCD69;
+    color: white;
+    border: 0rem;}
+
+#text {
+    color: white;
+    background-color: #DDB9A3;
+    border: 0rem;
+    text-align: center;}
+
+#campfire {
+    height: 0.1rem;
+    width: 0.1rem;
+    border: 0rem;
+    padding: 0rem;
+    margin: 0rem;}
+
+#van {
+    height: 0.1rem;
+    width: 0.1rem;
+    border: 0rem;
+    padding: 0rem;
+    margin: 0rem;}
+
+
+
+
+
+
+
 #button4 {
-    background-color: #FF764E;}
+    background-color: #FF764E;
+    color: white;
+    border: 0rem;}
 #button5 {
-    background-color: #5ED3EB;}
+    background-color: #5ED3EB;
+    color: white;
+    border: 0rem;}
 #button6 {
-    background-color: #FFCD69;}
-.p {
-    background-color: #DDB9A3;}
+    background-color: #FFCD69;
+    color: white;
+    border: 0rem;}
