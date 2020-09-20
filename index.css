@@ -1,5 +1,7 @@
 * {
     font-family: 'Roboto Mono', monospace;}
+#title {
+    font-family: 'Chelsea Market', cursive;}
 #button1 {
     background-color: #FF764E;}
 #button2 {
@@ -12,3 +14,5 @@
     background-color: #5ED3EB;}
 #button6 {
     background-color: #FFCD69;}
+.p {
+    background-color: #DDB9A3;}
