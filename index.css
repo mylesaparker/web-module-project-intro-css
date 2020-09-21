@@ -26,23 +26,26 @@ html {
 #button1 {
     background-color: #FF764E;
     color:#ffffff;
-    width: 30rem;
+    width: 17rem;
     font-size: 2rem;
     border: 0rem;
-    border-radius: 2rem;
-    padding: 2rem;
-    margin: 3rem; }
+    border-radius: 2rem;}
 
 #button2 {
     background-color: #5ED3EB;
-    color: white;
+    color:#ffffff;
+    width: 17rem;
+    font-size: 2rem;
     border: 0rem;
-    border-radius: 1rem;}
+    border-radius: 2rem;}
 
 #button3 {
     background-color: #FFCD69;
-    color: white;
-    border: 0rem;}
+    color:#ffffff;
+    width: 17rem;
+    font-size: 2rem;
+    border: 0rem;
+    border-radius: 2rem;}
 
 #headerimg {
     position: relative;
