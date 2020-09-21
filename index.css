@@ -2,7 +2,8 @@ html {
     font-size: 62.5%;}
 
 * {
-    font-family: 'Roboto Mono', monospace;}
+    font-family: 'Roboto Mono', monospace;
+    border: 1px solid black;}
 
 #title {
     font-family: 'Chelsea Market', cursive;
@@ -28,14 +29,15 @@ html {
     width: 30rem;
     font-size: 2rem;
     border: 0rem;
-    border-radius: 10%;
-    padding: 5rem;
-    margin: 2rem; }
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 3rem; }
 
 #button2 {
     background-color: #5ED3EB;
     color: white;
-    border: 0rem;}
+    border: 0rem;
+    border-radius: 1rem;}
 
 #button3 {
     background-color: #FFCD69;
