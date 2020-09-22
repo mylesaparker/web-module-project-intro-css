@@ -23,7 +23,11 @@ html {
     padding-right: 30rem;
     word-wrap: normal;}
 
-#button1 {
+.topbuttons {
+    display: flex;
+    justify-content: space-between}
+
+.button1 {
     background-color: #FF764E;
     color:#ffffff;
     width: 17rem;
@@ -31,7 +35,7 @@ html {
     border: 0rem;
     border-radius: 2rem;}
 
-#button2 {
+.button2 {
     background-color: #5ED3EB;
     color:#ffffff;
     width: 17rem;
@@ -39,7 +43,7 @@ html {
     border: 0rem;
     border-radius: 2rem;}
 
-#button3 {
+.button3 {
     background-color: #FFCD69;
     color:#ffffff;
     width: 17rem;
